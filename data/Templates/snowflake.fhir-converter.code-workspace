@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "name": "Json (Templates)",
+            "path": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\Templates\\Json"
+        },
+        {
+            "path": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\SampleData\\Json"
+        }
+    ],
+    "settings": {
+        "workbench.editor.enablePreview": false,
+        "diffEditor.renderSideBySide": false,
+        "microsoft.health.fhir.converter.templateFolder": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\Templates\\Json",
+        "microsoft.health.fhir.converter.resultFolder": "c:\\Users\\anrosario\\AppData\\Roaming\\Code\\User\\workspaceStorage\\b43def035da8db4650c90a109fdfe7f6\\ms-azuretools.vscode-health-fhir-converter\\fhirConverterResult"
+    }
+}

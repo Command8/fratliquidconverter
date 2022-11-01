@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "name": "PractitionerWorkspace (Templates)",
+            "path": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\Workspaces\\PractitionerWorkspace"
+        },
+        {
+            "path": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\SampleData\\Json"
+        }
+    ],
+    "settings": {
+        "workbench.editor.enablePreview": false,
+        "diffEditor.renderSideBySide": false,
+        "microsoft.health.fhir.converter.templateFolder": "c:\\Users\\anrosario\\Documents\\fhir-frat-liquid-converter\\fratliquidconverter\\data\\Workspaces\\PractitionerWorkspace"
+    }
+}
